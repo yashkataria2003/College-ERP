@@ -1,0 +1,35 @@
+.attendanceAndMarksContainer::-webkit-scrollbar {
+    display: none;
+}
+
+.attendanceContainer::-webkit-scrollbar {
+    /* display: none; */
+    width: 0.2rem;
+    background-color: #a6a6a6;
+    height: 80%;
+}
+
+.attendanceContainer::-webkit-scrollbar-thumb {
+    /* display: none; */
+    width: 0.4rem;
+    background-color: #000080;
+    height: 10%;
+}
+
+.marksContainer::-webkit-scrollbar {
+    /* display: none; */
+    width: 0.2rem;
+    background-color: #a6a6a6;
+    height: 10%;
+}
+
+.marksContainer::-webkit-scrollbar-thumb {
+    /* display: none; */
+    width: 0.4rem;
+    background-color: #000080;
+}
+
+
+.noticeAssignmentAndPresentationContainer::-webkit-scrollbar {
+    display: none;
+}

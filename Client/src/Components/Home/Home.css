@@ -1,0 +1,23 @@
+.content {
+    font-family:'Times New Roman'
+}
+
+.headingIITM {
+    font-family:'Times New Roman'
+}
+
+.subHeadingIITM {
+    font-family: 'Times New Roman'
+}
+
+.imageContainer {
+    background-image: url('../../assets/Thumbnail_8.png');
+    opacity: 0.5;
+    height: 60vh;
+}
+
+.videoContent {
+    font-family:'Times New Roman';
+    stroke: black;
+    stroke-width: 4;
+}
